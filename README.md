@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/3829deaa-334d-47ed-8ed6-09a38
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Download
+
+명함뒷면 다운로드: [명함뒷면.pdf](./명함뒷면.pdf)
