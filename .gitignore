@@ -6,3 +6,7 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# SQLite database (created at runtime by src/server.ts)
+cards.db
+cards.db-*
